@@ -6,6 +6,8 @@
   <description>
     Adapted from ROS2 demos.
   </description>
+  <maintainer email="you@your.email.com">your name</maintainer>
+  <license>your license</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 
