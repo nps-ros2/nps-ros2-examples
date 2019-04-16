@@ -6,6 +6,12 @@
   <description>
     Adapted from ROS2 demos.
   </description>
+  <maintainer email="you@yours.com">your name</maintainer>
+  <license>your licnese</license>
+
+  <author>your name</author>
+  <author email="you@yours.com">your name</author>
+
   <exec_depend>example_interfaces</exec_depend>
   <exec_depend>rclpy</exec_depend>
   <exec_depend>std_msgs</exec_depend>

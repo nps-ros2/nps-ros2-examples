@@ -14,16 +14,18 @@ setup(
     ],
     install_requires=['setuptools'],
     zip_safe=True,
+    author='your name',
+    author_email='you@yours.com',
+    maintainer='your name',
+    maintainer_email='you@yours.com',
     keywords=['ROS'],
     classifiers=[
-        'Intended Audience :: Developers',
-        'Programming Language :: Python',
-        'Topic :: Software Development',
+        'Programming Language :: Python'
     ],
     description=(
         'Adapted from ROS2 demos.'
     ),
-    license='Apache License, Version 2.0',
+    license='your license',
     entry_points={
         'console_scripts': [
             'listener = nps_examples_py.topics.listener:main',
